@@ -135,7 +135,7 @@ AI Automation Engineer | Workflow Integration Specialist
 
 - Email: daffanovendraa@gmail.com
 - LinkedIn: [linkedin.com/in/daffanovendraaditama](https://linkedin.com/in/daffanovendraaditama)
-- Portfolio: *(add your portfolio link here)*
+- Portfolio: **
 
 ---
 
