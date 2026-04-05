@@ -109,7 +109,8 @@ body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background:
   </div>
   <div class="footer">
     <p>This email was sent automatically by <strong style="color:#9FE1CB">SmartRecruit AI</strong><br>
-    Powered by Pipedream Automation &amp; Groq AI (LLaMA 3.1)<br>
+    Developed by Daffa Noendra Aditama &nbsp;·&nbsp; SmartRecruit AI System<br>
+    Automated Recruitment Pipeline · Groq AI (LLaMA 3.1)<br>
     Please do not reply to this email.</p>
   </div>
 </div>
