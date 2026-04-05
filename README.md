@@ -128,6 +128,16 @@ or `SETUP-GUIDE.md` for the English version.
 
 ---
 
+## Live Links
+
+| | Link |
+|---|---|
+| 📋 Application Form | [Open Google Form](https://docs.google.com/forms/d/e/1FAIpQLSflb2Af3O4e4OatxnnKeeyn0iX0hpcOQ0DK6KuTMPWGe3KuVg/viewform?pli=1&pli=1) |
+| 📊 Candidate Database | [View Google Sheets](https://docs.google.com/spreadsheets/d/1btf--CI9m3k0GzMVeE35tWV9EsTA_6YzGcPzaB4REFQ/edit?usp=sharing) |
+| 📊 Form Responses | [View Google Sheets] (https://docs.google.com/spreadsheets/d/1NGi0Y9a-wTZYQ7SSOzI3_o0XOZFAqap5z-PgmyxykM4/edit?usp=sharing). |
+
+---
+
 ## Author
 
 **Daffa Novendra Aditama**
