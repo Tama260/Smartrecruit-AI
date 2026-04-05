@@ -89,8 +89,9 @@ body { font-family: 'Segoe UI', Tahoma, sans-serif; background: #0f172a; }
     </p>
   </div>
   <div class="footer">
-    <p>SmartRecruit AI Internal Notification &nbsp;·&nbsp; Powered by Pipedream + Groq AI<br>
-    This email is for internal HR use only.</p>
+    <p>SmartRecruit AI &nbsp;·&nbsp; Developed by Daffa Novendra Aditama<br>
+    End-to-End Recruitment Automation · AI-Powered Candidate Scoring<br>
+    github.com/Tama260.</p>
   </div>
 </div>
 </body>
