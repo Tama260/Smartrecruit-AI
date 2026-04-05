@@ -1,9 +1,9 @@
-// ============================================================
+// ===============================================================
 // Pipedream Step 6 — Send AI Score Notification to HR
 // Step name : email_hr
 // Paste this in a "Run Node.js code" step
 // Uses Pipedream's built-in $.send.email() — NO SMTP needed!
-// ============================================================
+// ===============================================================
 
 export default defineComponent({
   async run({ steps, $ }) {
