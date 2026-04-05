@@ -1,9 +1,9 @@
-// ============================================================
+// =============================================================
 // Pipedream Step 5 — Send Confirmation Email to Applicant
 // Step name : email_applicant
 // Paste this in a "Run Node.js code" step
 // Uses Pipedream's built-in $.send.email() — NO SMTP needed!
-// ============================================================
+// =============================================================
 
 export default defineComponent({
   async run({ steps, $ }) {
